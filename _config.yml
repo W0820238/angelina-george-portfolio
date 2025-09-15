@@ -1,0 +1,8 @@
+title: My Porfolio
+name: Angelina George
+email: W0820238@myscc.ca
+
+collections:
+  design: 
+    output: true
+    permalink: /:collection/:path/
