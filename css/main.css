@@ -1,0 +1,56 @@
+
+body {
+  font-family: "League Gothic", sans-serif;
+  background: #FBEBC0;
+  color: #322E83;
+  line-height: 1.6;
+}
+
+h2 {
+  font-family: "League Gothic", sans-serif;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.section {
+  padding: 3rem 2rem;
+  text-align: center;
+}
+.palette {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.swatch {
+	text-align: center;
+	font-size: 2rem;
+	color: #322E83;
+  padding: 2rem;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.primary { background: #322E83; }
+.secondary { background: #B9C8E7; color: #000; }
+.tertiary { background: #FFFFFF; color: #000; border: 1px solid #ddd; }
+.accent { background: #FBEBC0; color: #000; border: 1px solid #ddd; }
+
+.typefaces {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+}
+
+.league-gothic {
+  font-family: "League Gothic", sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.instrument-serif {
+  font-family: "Instrument Serif", serif;
+  font-weight: 200;
+  font-size: 3rem;
+}
